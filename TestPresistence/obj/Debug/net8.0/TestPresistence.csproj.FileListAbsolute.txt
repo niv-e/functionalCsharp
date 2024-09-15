@@ -1,0 +1,17 @@
+C:\Users\nivel\source\repos\functionalCsharp\TestPresistence\obj\Debug\net8.0\TestPresistence.csproj.AssemblyReference.cache
+C:\Users\nivel\source\repos\functionalCsharp\TestPresistence\obj\Debug\net8.0\TestPresistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nivel\source\repos\functionalCsharp\TestPresistence\obj\Debug\net8.0\TestPresistence.AssemblyInfoInputs.cache
+C:\Users\nivel\source\repos\functionalCsharp\TestPresistence\obj\Debug\net8.0\TestPresistence.AssemblyInfo.cs
+C:\Users\nivel\source\repos\functionalCsharp\TestPresistence\obj\Debug\net8.0\TestPresistence.csproj.CoreCompileInputs.cache
+C:\Users\nivel\source\repos\functionalCsharp\TestPresistence\bin\Debug\net8.0\TestPresistence.deps.json
+C:\Users\nivel\source\repos\functionalCsharp\TestPresistence\bin\Debug\net8.0\TestPresistence.dll
+C:\Users\nivel\source\repos\functionalCsharp\TestPresistence\bin\Debug\net8.0\TestPresistence.pdb
+C:\Users\nivel\source\repos\functionalCsharp\TestPresistence\bin\Debug\net8.0\Application.dll
+C:\Users\nivel\source\repos\functionalCsharp\TestPresistence\bin\Debug\net8.0\Models.dll
+C:\Users\nivel\source\repos\functionalCsharp\TestPresistence\bin\Debug\net8.0\Application.pdb
+C:\Users\nivel\source\repos\functionalCsharp\TestPresistence\bin\Debug\net8.0\Models.pdb
+C:\Users\nivel\source\repos\functionalCsharp\TestPresistence\obj\Debug\net8.0\TestPres.F741F9C3.Up2Date
+C:\Users\nivel\source\repos\functionalCsharp\TestPresistence\obj\Debug\net8.0\TestPresistence.dll
+C:\Users\nivel\source\repos\functionalCsharp\TestPresistence\obj\Debug\net8.0\refint\TestPresistence.dll
+C:\Users\nivel\source\repos\functionalCsharp\TestPresistence\obj\Debug\net8.0\TestPresistence.pdb
+C:\Users\nivel\source\repos\functionalCsharp\TestPresistence\obj\Debug\net8.0\ref\TestPresistence.dll
